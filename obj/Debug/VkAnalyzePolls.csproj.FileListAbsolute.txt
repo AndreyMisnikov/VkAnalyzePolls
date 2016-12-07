@@ -1,0 +1,13 @@
+E:\Freelance\VkAnalyzePolls\VkAnalyzePolls\bin\Debug\VkAnalyzePolls.exe.config
+E:\Freelance\VkAnalyzePolls\VkAnalyzePolls\bin\Debug\VkAnalyzePolls.exe
+E:\Freelance\VkAnalyzePolls\VkAnalyzePolls\bin\Debug\VkAnalyzePolls.pdb
+E:\Freelance\VkAnalyzePolls\VkAnalyzePolls\obj\Debug\VkAnalyzePolls.csprojResolveAssemblyReference.cache
+E:\Freelance\VkAnalyzePolls\VkAnalyzePolls\obj\Debug\MainWindow.baml
+E:\Freelance\VkAnalyzePolls\VkAnalyzePolls\obj\Debug\MainWindow.g.cs
+E:\Freelance\VkAnalyzePolls\VkAnalyzePolls\obj\Debug\App.g.cs
+E:\Freelance\VkAnalyzePolls\VkAnalyzePolls\obj\Debug\VkAnalyzePolls_MarkupCompile.cache
+E:\Freelance\VkAnalyzePolls\VkAnalyzePolls\obj\Debug\VkAnalyzePolls.g.resources
+E:\Freelance\VkAnalyzePolls\VkAnalyzePolls\obj\Debug\VkAnalyzePolls.Properties.Resources.resources
+E:\Freelance\VkAnalyzePolls\VkAnalyzePolls\obj\Debug\VkAnalyzePolls.csproj.GenerateResource.Cache
+E:\Freelance\VkAnalyzePolls\VkAnalyzePolls\obj\Debug\VkAnalyzePolls.exe
+E:\Freelance\VkAnalyzePolls\VkAnalyzePolls\obj\Debug\VkAnalyzePolls.pdb
