@@ -11,3 +11,6 @@ E:\Freelance\VkAnalyzePolls\VkAnalyzePolls\obj\Debug\VkAnalyzePolls.Properties.R
 E:\Freelance\VkAnalyzePolls\VkAnalyzePolls\obj\Debug\VkAnalyzePolls.csproj.GenerateResource.Cache
 E:\Freelance\VkAnalyzePolls\VkAnalyzePolls\obj\Debug\VkAnalyzePolls.exe
 E:\Freelance\VkAnalyzePolls\VkAnalyzePolls\obj\Debug\VkAnalyzePolls.pdb
+E:\Freelance\VkAnalyzePolls\VkAnalyzePolls\bin\Debug\Newtonsoft.Json.dll
+E:\Freelance\VkAnalyzePolls\VkAnalyzePolls\bin\Debug\xNet.dll
+E:\Freelance\VkAnalyzePolls\VkAnalyzePolls\bin\Debug\Newtonsoft.Json.xml
